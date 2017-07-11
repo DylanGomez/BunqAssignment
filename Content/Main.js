@@ -1,5 +1,5 @@
 /**
- * Created by dylangomez on 04/07/2017.
+ * Created by dylangomez
  */
 function Chat () {
     this.update = updateChat;

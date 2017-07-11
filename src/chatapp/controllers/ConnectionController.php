@@ -2,8 +2,7 @@
 /**
  * Created by PhpStorm.
  * User: dylangomez
- * Date: 29/06/2017
- * Time: 11:55
+
  */
 namespace chatapp\controllers;
 

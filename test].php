@@ -1,9 +1,7 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: dylangomez
- * Date: 04/07/2017
- * Time: 15:40
+
  */
 
 $function = $_POST['function'];
