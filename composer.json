@@ -4,10 +4,6 @@
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
-    {
-      "name": "author's name",
-      "email": "email@example.com"
-    }
   ],
   "require": {
     "psr/http-message": "1.0.1",
